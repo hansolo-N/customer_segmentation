@@ -1,6 +1,6 @@
 # Customer Segmentation Analysis
 
-#📋 Project Overview
+# 📋 Project Overview
 
 This project involves analyzing a marketing campaign dataset to perform customer segmentation using clustering techniques. The goal is to understand customer behavior better and identify distinct segments based on their spending and income profiles.
 
